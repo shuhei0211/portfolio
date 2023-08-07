@@ -60,6 +60,10 @@ main {
   text-align: center;
 }
 
+#about p {
+  padding: 0 32px;
+}
+
 img {
   border-radius: 50%;
   border: 2px solid black;
